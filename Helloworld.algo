@@ -1,4 +1,5 @@
 Algo HelloWorld {
+    // commentaire fonction principale
  fonction principale {
         // Création de la fenetre
         Créer une fenetre de titre ‘Hello world’
