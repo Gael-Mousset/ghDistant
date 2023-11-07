@@ -4,7 +4,7 @@ Algo HelloWorld {
  fonction principale {
         // Création de la fenetre
         Créer une fenetre de titre ‘Hello world’
-        Mettre la dimension à 200, 200
+        Mettre la dimension à 500, 500
         Créer la couleur cyan
         Mettre la couleur cyan sur la fenetre
         Configurer la fenetre sur ‘exitOnClose’
